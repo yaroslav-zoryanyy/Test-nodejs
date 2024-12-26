@@ -1,0 +1,7 @@
+[
+  {"id": 1,"name": "Ivan","age": 20,"password": "asd123","surname":"Karpenco" },
+  {"id": 2,"name": "Oly","age": 18,"password": "qwe454","surname":"Halepa" },
+  {"id": 3,"name": "Marina","age": 23,"password": "koko223","surname":"Homenko" },
+  {"id": 4,"name": "Max","age": 21,"password": "jkl636","surname":"Tkachenko" },
+  {"id": 5,"name": "Taras","age": 19,"password": "lop098","surname":"Chiyko" }
+]
